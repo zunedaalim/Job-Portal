@@ -108,4 +108,3 @@ This is a full-stack web application built using the MERN (MongoDB, Express.js, 
 
 10. Open your browser and navigate to `http://localhost:3000`.
 
-## Project Structure
